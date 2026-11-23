@@ -1,27 +1,27 @@
 #EXTM3U
 #PLAYLIST:Pamuk kiflice - 8 glasova
 
-#EXTINF:251,Kore - ženski glas
+#EXTINF:251,Pamuk kiflice - Kore, ženski glas
 ../audio/01 Kore - ženski glas.mp3
 
-#EXTINF:250,Aoede - ženski glas
+#EXTINF:250,Pamuk kiflice - Aoede, ženski glas
 ../audio/02 Aoede - ženski glas.mp3
 
-#EXTINF:243,Leda - ženski glas
+#EXTINF:243,Pamuk kiflice - Leda, ženski glas
 ../audio/03 Leda - ženski glas.mp3
 
-#EXTINF:242,Zephyr - ženski glas
+#EXTINF:242,Pamuk kiflice - Zephyr, ženski glas
 ../audio/04 Zephyr - ženski glas.mp3
 
-#EXTINF:243,Charon - muški glas
+#EXTINF:243,Pamuk kiflice - Charon, muški glas
 ../audio/05 Charon - muški glas.mp3
 
-#EXTINF:238,Orus - muški glas
+#EXTINF:238,Pamuk kiflice - Orus, muški glas
 ../audio/06 Orus - muški glas.mp3
 
-#EXTINF:244,Fenrir - muški glas
+#EXTINF:244,Pamuk kiflice - Fenrir, muški glas
 ../audio/07 Fenrir - muški glas.mp3
 
-#EXTINF:226,Puck - muški glas
+#EXTINF:226,Pamuk kiflice - Puck, muški glas
 ../audio/08 Puck - muški glas.mp3
 
